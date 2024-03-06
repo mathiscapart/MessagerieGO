@@ -1,0 +1,7 @@
+POST {{url}}/login
+Content-Type: application/json
+
+{
+  "name": "Mathis",
+  "password": "pass"
+}
